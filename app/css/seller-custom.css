@@ -1,0 +1,90 @@
+.seller{
+    background-color:#a4cada87;
+    padding: 20px;
+}
+.transparent{
+    background-color: transparent !important;
+}
+.rounded-seller{
+    border-radius: 30%!important;
+}
+.why-Nolwa{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+.tx-20{
+font-size: 20px;
+}
+.tx-15{
+font-size: 15px;
+}
+.tx-18{
+font-size: 18px;
+}
+.tx-14{
+font-size: 14px;
+}
+.tx-30{
+font-size: 30px;
+}
+.benefits-Nolwa{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+.pd-2{
+    padding: 2rem 0 2rem 0;
+}
+.pd-3{
+    padding: 3rem 0 3rem 0;
+}
+.otp{
+    padding: 20px;
+    border: #8e888891 solid 1px;
+    margin: auto;
+    width: 55%;
+    padding: 10px;
+}
+.form-control{
+    border: 1px solid #71757d96;
+}
+.linebottom{
+    margin-top : -20px;
+}
+.linebottom{
+    margin-top : -40px;
+}
+.store{
+    padding: 20px;
+    border-right:#e3e3e4 solid 1px;
+    margin: auto;
+    width: 75%;
+    padding: 10px;  
+}
+select .form-control {
+    border: 1px solid #71757d96 !important;
+    height: 39px !important;
+}
+.online-store{
+    margin-top: 4.25rem;
+    height: 100px;
+    width: 100px;
+}
+.sellerdash{
+    padding: 20px;
+    border-right:#e3e3e4 solid 1px;
+    margin: auto;
+    width: 85%;
+    padding: 10px;
+}
+.seller-dash{
+    margin-top: 100px;
+    height: 100px;
+    width: 100px;
+}
+.seller-store{
+    margin-top: 150px;
+    height: 100px;
+    width: 100px;
+}

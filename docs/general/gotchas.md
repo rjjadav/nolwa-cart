@@ -52,6 +52,7 @@ export default function createReducer(injectedReducers = {}) {
     ...injectedReducers,
   });
 
+  console.log(rootReducer);
   return rootReducer;
 }
 ```

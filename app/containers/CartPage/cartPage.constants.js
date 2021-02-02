@@ -1,0 +1,2 @@
+export const LOAD_CART = "LOAD_CART";
+export const LOAD_CART_SUCCESS = "LOAD_CART_SUCCESS";
